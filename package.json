@@ -1,5 +1,9 @@
 {
   "name": "ts-solid-template",
   "version": "0.0.0",
-  "description": "A template to build web applications with TypeScript, Solid, & Sass"
+  "description": "A template to build web applications with TypeScript, Solid, & Sass",
+  "license": "MIT",
+  "dependencies": {
+    "solid-js": "^1.5.4"
+  }
 }
