@@ -6,7 +6,7 @@ This is a template for building a scalable single-page application using [Solid]
 
 This template uses Babel & Webpack to compile the project.
 
-To reference a project built using this template, see [this   application](https://github.com/YourZombieMop/totally-tubular-task-table).
+To reference a project built using this template, see [this   application](https://github.com/YourZombieMop/silvam-operum).
 
 ### To use this template
 * [Install Yarn]
